@@ -1,4 +1,4 @@
-This is the GitHub repository for managing Assignment 3 of the Object Oriented Programming Course (CS213) at FCAI-CU
+<h1>This is the GitHub repository for managing Assignment 3 of the Object Oriented Programming Course (CS213) at FCAI-CU</h1>
 # tic-tac-toe-games
 # Team members:
 Mazen AbdelFattah - 20230607 |
