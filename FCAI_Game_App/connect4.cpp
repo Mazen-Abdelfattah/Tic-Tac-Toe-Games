@@ -1,11 +1,3 @@
-// File: A3_S1_20220457_.cpp
-// Purpose: Connect4
-// Author: Mahmoud Ehab
-// Section: S1
-// ID: 20220457
-// TA: Khaled Ibrahim
-
-//#include "../include/Board_Games.hpp"
 #include "Board_Games.hpp"
 #include <iostream>
 using namespace std;
