@@ -1,7 +1,5 @@
 // Class definition for Pyramid_X_O class
-// Author:  Ahmed Elkholy
-// Date:    5/12/2023
-// Version: 1
+
 #include <iostream>
 #include <random>
 #include <iomanip>
