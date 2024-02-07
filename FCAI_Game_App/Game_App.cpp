@@ -1,7 +1,6 @@
 // Class definition for XO_App class
 
 #include <iostream>
-//#include"../include/Board_Games.hpp"
 #include "Board_Games.hpp"
 using namespace std;
 void Game_interface(){
