@@ -1,8 +1,5 @@
 // Class definition for XO_RandomPlayer class
 // Which is a computer player playing randomly
-// Author:  Ahmed Elkholy
-// Date:    5/12/2023
-// Version: 1
 #include<iostream>
 #include<random>
 #include<iomanip>
