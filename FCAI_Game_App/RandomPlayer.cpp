@@ -1,10 +1,10 @@
 // Class definition for XO_RandomPlayer class
 // Which is a computer player playing randomly
+// Author:  Mohammad El-Ramly
 #include<iostream>
 #include<random>
 #include<iomanip>
 #include<algorithm>
-//#include"../include/Board_Games.hpp"
 #include "Board_Games.hpp"
 using namespace std;
 
