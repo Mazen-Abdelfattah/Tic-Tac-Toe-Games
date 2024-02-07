@@ -1,7 +1,4 @@
 // Class definition for XO_App class
-// Author: Ahmed Elkholy , Mahmoud Ehab , Mazen Abdelfattah
-// Date:    16/12/2023
-// Version: 2
 
 #include <iostream>
 //#include"../include/Board_Games.hpp"
