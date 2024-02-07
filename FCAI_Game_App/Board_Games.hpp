@@ -1,10 +1,7 @@
 // Class definition for XO_App class
-// Author:  Ahmed Elkholy
-// Date:    5/12/2023
-// Version: 1
-//#include <SFML/Graphics.hpp>
-#ifndef _BoardGame_CLASSES_HPP/////////////////////////////
-#define _BoardGame_CLASSES_HPP//////////////////////////////
+
+#ifndef _BoardGame_CLASSES_HPP
+#define _BoardGame_CLASSES_HPP
 #include <bits/stdc++.h>
 using namespace std;
 
