@@ -1,12 +1,6 @@
 // Class definition for XO_GameManager class
-// Author:  Ahmed Elkholy
-// Date:    5/12/2023
-// Version: 1
-
 #include <iostream>
-//#include"../include/Board_Games.hpp"
 #include "Board_Games.hpp"
-//#include <SFML/Graphics.hpp>
 
 using namespace std;
 
