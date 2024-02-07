@@ -1,5 +1,5 @@
 // Class definition for XO_GameManager class
-// Author : Dr/ Mohammed ElRamly
+// Author:  Mohammad El-Ramly
 #include <iostream>
 #include "Board_Games.hpp"
 
