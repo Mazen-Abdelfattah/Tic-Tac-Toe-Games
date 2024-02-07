@@ -3,16 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic-Tac-Toe Games</title>
 </head>
 <body>
     <h1>Tic-Tac-Toe Games</h1>
-    <p>This repository is dedicated to managing part of assignment 3 of the Object Oriented Programming Course (CS213) at FCAI-CU.</p>
-    <p>This repository is about four tic-tac-toe games</p>
+    <p>This repository contains implementations of four tic-tac-toe games developed as part of the Object Oriented Programming Course (CS213) assignment 3 at FCAI-CU.</p>
+    <h2>Games:</h2>
     <ul>
         <li>Ordinary XO game</li>
         <li>Pyramid XO game</li>
         <li>Connect4 XO game</li>
         <li>5x5 XO game</li>
+    </ul>
     <h2>Team Members:</h2>
     <ul>
         <li>Mazen AbdelFattah (20230607)</li>
